@@ -11,8 +11,9 @@
 | Name                | Description                                                                                         | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
 | **AC-GAN**        | Image GAN with auxiliary classifier for label classes                                                 | [github repo link](https://github.com/soucs/ac-gans)   |
-| **Textile Defect Inspection**        | Clssification in defective textile images    | [github repo link](https://github.com/soucs/textile-defect-inspection) |
+| **Textile Defect Inspection**        | Clssification of defective textile images    | [github repo link](https://github.com/soucs/textile-defect-inspection) |
 
+<!---
 ### Portfolio Highlights
 
 #### Leadership and Influence:
@@ -62,4 +63,4 @@
 
 
 ---
-
+-->
