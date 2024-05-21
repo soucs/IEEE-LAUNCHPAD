@@ -8,10 +8,10 @@
 
 ## My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **ToeTally**        | A clasic tic-tac-toe Game                                                 | [toetally](https://toetally.vishakh.fun) |[github repo link](https://github.com/gtech-mulearn/LAUNCHPAD)   |
-| **BirthYay**        | Create personalized birthday cards and share them with your loved ones    | [birthyay](https://wish.vishakh.fun)     | [github repo link](https://github.com/gtech-mulearn/LAUNCHPAD) |
+| Name                | Description                                                                                         | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
+| **AC-GAN**        | Image GAN with auxiliary classifier for label classes                                                 | [github repo link](https://github.com/soucs/ac-gans)   |
+| **Textile Defect Inspection**        | Clssification in defective textile images    | [github repo link](https://github.com/soucs/textile-defect-inspection) |
 
 ### Portfolio Highlights
 
