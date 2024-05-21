@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I'm a Full Stack Developer with a passion for creating innovative web applications. I have a deep understanding of the full web development life cycle, from concept and design to coding, testing, and deployment. I am proficient in `Javascript`, `Python` and a variety of frameworks, such as Django, Express and React. I have experience working with databases such as MySQL, PostgreSQL and MongoDB
+> With a Statistics background and a focus on ML/AI, I'm working towards a research career in Machine Learning. I love tackling tough problems and I'm pretty good at it. Give me something interesting and challenging, and you'll see me fully engaged, eager to dive into the data. But if you give me mindless tasks, I'll just feel lost and wonder what I'm doing with my time. Python is my go-to language, and you'll find most of my models developed in PyTorch (FOSS and all that!). I have worked on computer vision (GAN mostly) and NLP (an ASR project I loved tackling) and am currently working on a core-ML research project on the topic of Wasserstein distance. Finally, I am always on the lookout of original projects that can help me grow my skills, so if you know one, please hit me up!
 
 ---
 
